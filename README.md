@@ -14,3 +14,7 @@ Asking
 
 After calculating the final salary of each worker within the company and shows
 how much the company spends for these payments
+
+¿What solutions?
+
+This project optimization the process of repetitive tasks
